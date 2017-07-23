@@ -24,6 +24,11 @@
 
 Download Game: (https://goo.gl/2pJyA2)
 
+Recommended Spec:
+* CPU: Intel Xeon E3-1230 v5 
+* GPU: NVIDIA GTX 960
+* RAM: 8G
+
 遊戲操作：
 
 * W,A,S,D: 控制人物
