@@ -23,3 +23,14 @@
 
 
 Download Game: (https://goo.gl/2pJyA2)
+
+遊戲操作：
+
+* W,A,S,D: 控制人物
+* V: 控制視角
+* Q: 任務視窗
+* Mouse 右鍵: 魔法攻擊
+* Mouse 左鍵: 物理攻擊
+* I: 開啟道具欄
+* C: 開啟狀態欄
+* E: 互動
