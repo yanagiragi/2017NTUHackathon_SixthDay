@@ -4,6 +4,14 @@
 
 <br />
 
+### 遊戲畫面
+
+![暫定畫面](https://i.imgur.com/NbQyIWt.jpg)
+
+### 很有事的投影片
+
+* <a href="https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/SixthDay.pdf">請點我</a>
+
 ### Objectives
 
 * RPG
@@ -15,22 +23,16 @@
 
 以上，可能不會有(要看進度) :+1: 
 
-<br />
+### Download Game: 
 
-### (遊戲畫面，<del>美術風格會再調整</del>)
+* <a href="https://goo.gl/2pJyA2">請點我</a>
 
-![暫定畫面](https://i.imgur.com/NbQyIWt.jpg)
-
-
-Download Game: (https://goo.gl/2pJyA2)
-
-Recommended Spec:
+### Recommended Spec:
 * CPU: Intel Xeon E3-1230 v5 
 * GPU: NVIDIA GTX 960
 * RAM: 8G
 
-遊戲操作：
-
+### 遊戲操作：
 * W,A,S,D: 控制人物
 * V: 控制視角
 * Q: 任務視窗
