@@ -10,6 +10,8 @@
 
 ![畫面2](https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/2.png?raw=true)
 
+![畫面3](https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/3.png?raw=true)
+
 * [請點我看影片](https://youtu.be/Zb2hMSDhcXY)
 
 ### 很有事的投影片
