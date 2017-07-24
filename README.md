@@ -8,9 +8,11 @@
 
 ![暫定畫面](https://i.imgur.com/NbQyIWt.jpg)
 
+* [請點我看影片](https://youtu.be/Zb2hMSDhcXY)
+
 ### 很有事的投影片
 
-* <a href="https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/SixthDay.pdf">請點我</a>
+* [請點我](https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/SixthDay.pdf)
 
 ### Objectives
 
@@ -25,7 +27,7 @@
 
 ### Download Game: 
 
-* <a href="https://goo.gl/2pJyA2">請點我</a>
+* [請點我](https://goo.gl/2pJyA2)
 
 ### Recommended Spec:
 * CPU: Intel Xeon E3-1230 v5 
