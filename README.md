@@ -6,7 +6,9 @@
 
 ### 遊戲畫面
 
-![暫定畫面](https://i.imgur.com/NbQyIWt.jpg)
+![畫面1](https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/1.png?raw=true)
+
+![畫面2](https://github.com/yanagiragi/2017NTUHackton_SixthDay/blob/master/2.png?raw=true)
 
 * [請點我看影片](https://youtu.be/Zb2hMSDhcXY)
 
